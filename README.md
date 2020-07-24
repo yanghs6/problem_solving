@@ -15,7 +15,7 @@
 
 [세세한 팁들](Tips.md)
 
-[문제별 바로가기](Sort%20by%20date.md)
+[문제별 바로가기](Sort%20by%20num.md)
 
 [날짜별 바로가기](Sort%20by%20date.md)
 
