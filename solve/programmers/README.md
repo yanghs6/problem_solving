@@ -13,7 +13,6 @@
 ### level 1
 - [완주하지 못한 선수](/solve/programmers/완주하지%20못한%20선수.md "완주하지 못한 선수")
 
-
 ---
 ### level 2
 - [위장](/solve/programmers/위장.md "위장")
