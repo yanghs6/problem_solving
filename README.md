@@ -19,8 +19,8 @@
 
 [세세한 팁들](Tips.md)
 
-[백준 문제 문제 찾아보기](/solve/boj/README.md)
+[백준 문제 문제 찾아보기](solve/boj/README.md)
 
-[프로그래머스 문제 찾아보기](/solve/programmers/README.md)
+[프로그래머스 문제 찾아보기](solve/programmers/README.md)
 
-[백준, 프로그래머스 날짜별로 찾아보기](/Sort%20by%20date.md)
+[백준, 프로그래머스 날짜별로 찾아보기](Sort%20by%20date.md)
