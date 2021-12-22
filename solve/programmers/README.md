@@ -1,6 +1,7 @@
 # Programmers Solving
 
-### [이전으로 돌아가기](/README.md)
+### [처음으로 돌아가기](/README.md)
+#
 ### 문의: yanghs632@gmail.com
 ### 작성일: 21.05.20
 ### 수정일
